@@ -1,4 +1,4 @@
-# Design System Components
+# Design System Storybook
 
 This project implements a professional design system featuring typography components, data entry elements, and feedback components. Built with React, TypeScript, and Tailwind CSS, with documentation in Storybook.
 
